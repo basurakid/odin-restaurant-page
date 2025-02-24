@@ -76,7 +76,7 @@ header h1 {
 }
 
 .drop-shadow-small {
-    filter: drop-shadow(1px 1px #754e19);
+    filter: drop-shadow(2px 2px #754e19);
 }
 
 nav {
